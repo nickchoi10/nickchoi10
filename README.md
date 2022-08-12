@@ -5,6 +5,8 @@
 ### Contacts
 * **Email**: [`nickchoi10@gmail.com`](mailto:nickchoi10@gmail.com)
 * **LinkedIn**: [`https://www.linkedin.com/in/nickchoi10/`](https://www.linkedin.com/in/nickchoi10/)
+🔭 I’m currently working on my passion project ValorantTracker App
+
 
 
 <!--
