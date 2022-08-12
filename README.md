@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+# Welcome to my GitHub Profile!
+
+### Contacts
+* **Email**: [`nickchoi10@gmail.com`](mailto:nickchoi10@gmail.com)
+* **LinkedIn**: [`https://www.linkedin.com/in/nickchoi10/`](https://www.linkedin.com/in/nickchoi10/)
+
+
 <!--
 **nickchoi10/nickchoi10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
