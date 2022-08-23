@@ -8,7 +8,7 @@
 
 
 ### 🔭 I’m currently working on my passion project ValorantTracker App
-
+### 🌱 I’m currently working on my group project Squeaker (Twitter Clone)
 
 
 <!--
